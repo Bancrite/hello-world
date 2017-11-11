@@ -1,4 +1,4 @@
 # hello-world
-An Event Driven Program with
-Hi, I'm bancrite admin, I'm trying to build a bank on the blockchain framework
+
+Hi, I'm trying to build an Event Driven Program for Investors using the blockchain framework
 
